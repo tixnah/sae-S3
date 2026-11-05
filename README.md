@@ -15,6 +15,6 @@ garde un thème clair, ne fait aucun bord arrondi, évite les couleurs bleutées
 
 
 
-        **Inspiration retenue :**
+**Inspiration retenue :**
             
-            ![alt text](inspi_style.png)
+![alt text](inspi_style.png)
