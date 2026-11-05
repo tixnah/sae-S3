@@ -1,4 +1,11 @@
+## Constitution du Groupe : 
+BODIN-LEHMANN Raphaël
+BURLA Cristina
+
+
+
 ## MVP1 : 
+Deadline : 15/11
 - Réalisation de la carte graphique : Cristina
 - Page d'accueil / index.php : Raphaël
 - Page de contact / contact.php : Cristina
