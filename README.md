@@ -13,6 +13,15 @@ Deadline : 15/11
 - Footer / footer.php : Raphaël
 - Mise en page / style.css : Cristina
 
+## Strucutre du site 
+(pas encore de strucuture claire à ce stade, on doit analyser les retours sur les diagrammes pour en définir une)
+
+## Organisation de la BDD 
+Utilisateur ()
+Candidat ()
+Élection ()
+Vote ()
+
 ## Utilisation de l'IA
 
 ### Charte graphique
